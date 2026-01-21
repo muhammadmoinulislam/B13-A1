@@ -4,8 +4,16 @@
     box-sizing: border-box;
 }
 
-html {
-    scroll-behavior: smooth;
+:root {
+    --primary-green: #16a34a;
+    --primary-green-dark: #15803d;
+    --primary-green-light: #22c55e;
+    --dark-navy: #0f172a;
+    --text-dark: #1f2937;
+    --text-secondary: #6b7280;
+    --bg-light: #f9fafb;
+    --bg-yellow: #fffbeb;
+    --border-light: #e5e7eb;
 }
 
 body {
